@@ -20,17 +20,6 @@ The goal is to create an accurate and reliable price prediction model while demo
 8. Model Evaluation with R² and MSE  
 9. Visualization of Predicted vs Actual Prices and Residuals  
 
----
-
-## 📊 Results Visualization
-
-### Predicted vs Actual Car Prices  
-![Prediction vs Actual Car Prices](Predicted%20vs%20Actual%20Car%20Prices.png)
-
-### Residual Plot  
-![Residual Plot](Residual%20Plot.png)
-
----
 
 ## 📁 Files in This Repository
 
