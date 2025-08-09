@@ -25,7 +25,7 @@ The goal is to create an accurate and reliable price prediction model while demo
 ## 📊 Results Visualization
 
 ### Predicted vs Actual Car Prices  
-![Prediction vs Actual Car Prices](Prediction%20vs%20Actual%20Car%20Prices.png)
+![Prediction vs Actual Car Prices](Predicted%20vs%20Actual%20Car%20Prices.png)
 
 ### Residual Plot  
 ![Residual Plot](Residual%20Plot.png)
