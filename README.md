@@ -35,3 +35,19 @@ The goal is to create an accurate and reliable price prediction model while demo
 1. Clone or download this repository  
 2. Open the Jupyter notebook file (`Used Car Price Prediction.ipynb`) in JupyterLab or Jupyter Notebook  
 3. Ensure you have the required Python libraries installed:
+    - pandas
+    - numpy
+    - matplotlib
+    - scikit-learn
+4. Run each cell sequentially to reproduce the data cleaning, model training, tuning, and evaluation process  
+
+---
+
+##### 📚 About the Author
+
+**Visura Rodrigo** — Undergraduate University Student passionate about data science and machine learning.  
+This project is part of the IBM Data Analysis with Python.
+
+
+
+
